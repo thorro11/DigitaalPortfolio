@@ -8,13 +8,13 @@ In deze repository verzamel ik al mijn projecten die ik heb ontwikkeld tijdens m
 Deze repository bevat onder andere:
 
 - **Applicaties**  
-  Spel in Java
+    Spel in Java
 
-- **Web Services**
-  API in node.js
+- **Web Services**  
+    API in node.js
 
 - **Data Science & Machine Learning**  
-  Analyses, modellen en experimenten met data
+    Analyses, modellen en experimenten met data
 
 ## Doel van dit portfolio
 
